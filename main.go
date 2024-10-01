@@ -25,6 +25,6 @@ func lengthOfLastWord(s string) int {
 
 func main()  {
 	fmt.Println(lengthOfLastWord("Hello World")) // Output: 5
-    fmt.Println(lengthOfLastWord("   "))          // Output: 0
+    fmt.Println(lengthOfLastWord("    "))          // Output: 0
 
 }
